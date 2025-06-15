@@ -1,1 +1,1 @@
-https://htaew.github.io/htaew/
+https://github.com/htaew/htaew
